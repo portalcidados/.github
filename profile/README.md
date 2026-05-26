@@ -1,4 +1,4 @@
-# Portal CiDados
+# Portal Cidados
 
 > Data, tools, and visualization to understand Brazilian Cities.
 
