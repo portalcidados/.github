@@ -18,10 +18,9 @@ We are a research group at [Insper](https://www.insper.edu.br/en/home) focused o
 
 ## Data Pipelines
 
-- PEMOB
-- Motiva
-- Census (Mobility)
-- QualiÔnibus
+- [PEMOB](https://github.com/portalcidados/data-pemob)
+- [Motiva](https://github.com/portalcidados/pipeline-motiva)
+- [Census](https://github.com/portalcidados/data-ibge-censo)
 
 ## Related
 
