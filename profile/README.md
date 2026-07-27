@@ -1,32 +1,20 @@
-# Portal Cidados
+# Insper Cidades <img src ="images/CentroEstudosCidadesArq.Futuro_horizontal_positivo@4x.png" align = "right" height = "140">
 
-> Data, tools, and visualization to understand Brazilian Cities.
+O [Centro de Estudos das Cidades – Laboratório Arq.Futuro](https://www.insper.edu.br/pt/pesquisa/centro-de-estudos-das-cidades), também conhecido como **Insper Cidades**, é um centro de conhecimento interdisciplinar do Insper focado no ensino e na pesquisa sobre o meio urbano.
 
-We are a research group at [Insper](https://www.insper.edu.br/en/home) focused on cities, housing, mobility, and the data infrastructure to study them. This GitHub organization hosts our open-source R packages, paper replications, and data pipelines.
+------------------------------------------------------------------------
 
----
+## 🌐 Portais
 
-## 🌐 Sites & Tools
+- [**Portal CiDados**](https://cidados.insper.edu.br/) — Portal CiDados (narrativas baseadas em dados).
+- [**ONMS**](https://observatorio.insper.edu.br/) — Portal do Observatório Nacional de Mobilidade Sustentável.
 
-- **[Portal CiDados](https://cidados.insper.edu.br/)** — Main Website
-- **[ONMS](https://observatorio.insper.edu.br/)** — National Observatory for Sustainable Mobility
+## 📦 Projetos em destaque
 
-## 📦 R Packages
+- [**inspercidados**](https://github.com/portalcidados/inspercidados) — Pacote em R para acessar bases de dados do Portal CiDados.
+- [**insperplot**](https://github.com/portalcidados/insperplot) — Pacote em R para visualização de dados com a identidade visual Insper.
 
-- **[inspercidados](https://github.com/portalcidados/inspercidados)** — Easily fetch curated datasets from Insper's dataverse.
-- **[insperplot](https://github.com/portalcidados/insperplot)** — ggplot2 extension package with Insper's visual identity.
+## Relacionado
 
-## Data Pipelines
-
-- [PEMOB](https://github.com/portalcidados/data-pemob)
-- [Motiva](https://github.com/portalcidados/pipeline-motiva)
-- [Census](https://github.com/portalcidados/data-ibge-censo)
-
-## Related
-
-- **[Dataverse](https://dataverse.datascience.insper.edu.br/dataverse/cidades-portal-de-dados-urbanos)**
-
-## Citing our work
-
-- For research papers, cite the paper itself; the relevant replication repository's DOI is listed in each `repl-*` repo.
-- For our R packages, run `citation("pkgname")` in R.
+- [**Dataverse**](https://dataverse.datascience.insper.edu.br/dataverse/cidades-portal-de-dados-urbanos)
+- [**CDIA**](https://www.insper.edu.br/pt/pesquisa/centro-de-dados-e-ia)
