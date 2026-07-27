@@ -1,15 +1,7 @@
 # Insper Cidades
 
-<table>
-  <tr>
-    <td style="vertical-align: bottom; width: 100%;">
-      O <a href="https://www.insper.edu.br/pt/pesquisa/centro-de-estudos-das-cidades">Centro de Estudos das Cidades – Laboratório Arq.Futuro</a>, também conhecido como <b>Insper Cidades</b>, é um centro de conhecimento interdisciplinar do Insper focado no ensino e na pesquisa sobre o meio urbano. Este repositório contém todas as iniciativas de dados do Insper Cidades.
-    </td>
-    <td style="vertical-align: bottom;">
-      <img src="images/CentroEstudosCidadesArq.Futuro_horizontal_positivo@4x.png" height="140">
-    </td>
-  </tr>
-</table>
+<img src="images/CentroEstudosCidadesArq.Futuro_horizontal_positivo@4x.png" height="140" align="right">
+O Centro de Estudos das Cidades – Laboratório Arq.Futuro, também conhecido como <b>Insper Cidades</b>, é um centro de conhecimento interdisciplinar do Insper focado no ensino e na pesquisa sobre o meio urbano. Este repositório contém todas as iniciativas de dados do Insper Cidades.
 
 ------------------------------------------------------------------------
 
