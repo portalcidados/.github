@@ -1,6 +1,13 @@
 # Insper Cidades
 
-<img src="images/CentroEstudosCidadesArq.Futuro_horizontal_positivo@4x.png" height="140" align="right">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/inspercidades/.github/main/profile/images/CentroEstudosCidadesArq.Futuro_horizontal_negativo@4x.png">
+  <img alt="Insper Cidades"
+       src="https://raw.githubusercontent.com/inspercidades/.github/main/profile/images/CentroEstudosCidadesArq.Futuro_horizontal_positivo@4x.png"
+       width="358" height="140" align="right">
+</picture>
+
 O Centro de Estudos das Cidades – Laboratório Arq.Futuro, também conhecido como <b>Insper Cidades</b>, é um centro de conhecimento interdisciplinar do Insper focado no ensino e na pesquisa sobre o meio urbano. Este repositório contém todas as iniciativas de dados do Insper Cidades.
 
 ------------------------------------------------------------------------
